@@ -116,7 +116,7 @@
     "fs-extra": "^7.0.1",
     "fstream": "^1.0.12",
     "get-folder-size": "^2.0.1",
-    "is-valid-domain": "0.0.5",
+    "is-valid-domain": "0.0.19",
     "neon-cli": "^0.2.0",
     "optimist": "^0.6.1",
     "promise.prototype.finally": "^3.1.0",
