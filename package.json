@@ -117,7 +117,7 @@
     "fstream": "^1.0.12",
     "get-folder-size": "^2.0.1",
     "is-valid-domain": "0.0.5",
-    "neon-cli": "^0.2.0",
+    "neon-cli": "^0.8.2",
     "optimist": "^0.6.1",
     "promise.prototype.finally": "^3.1.0",
     "public-ip": "^3.0.0",
